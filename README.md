@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently  working on projects and learning R programming language
+I'm a final year BSc Data Science student at Nottingham Trent University doing my own projects
 
 
 ## 🌐 Socials:
