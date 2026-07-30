@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a final year BSc Data Science student at Nottingham Trent University doing my own projects
+Data Scientist
 
 
 ## 🌐 Socials:
